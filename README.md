@@ -1,6 +1,6 @@
 # **📊 Bank Telephonic Marketing: Subscription Prediction**
 
-![Power BI Dashboard](images/dashboard_overview.png)  
+![Power BI Dashboard]()  
 *Above: Power BI Dashboard showcasing key campaign insights.*
 
 ---
@@ -81,9 +81,10 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 
 ## **📌 Results**
 - **Best Model**: Random Forest with hyperparameter tuning (F1 Score: 0.58).  
-- **Test Predictions**: Exported in `KeyCode.csv` for leaderboard submission.
+- **Test Predictions**: Exported in `5995.csv` for leaderboard submission.
 
-![Streamlit App](images/streamlit_app.png)  
+![AccuracyScore](https://github.com/akashBhaiya/5995/blob/main/accuracy_score.png)  
+![Full_Report](https://github.com/akashBhaiya/5995/blob/main/detail_report.png)
 *Streamlit app for predictions and insights.*
 
 ---
