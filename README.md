@@ -10,6 +10,13 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 
 ---
 
+## **🛠 Tech Stack**
+
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |  
+|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+
+---
+
 ## **📈 Key Insights**
 - **Subscription Rates**: ~11% of customers subscribe.
 - **Call Duration**: Longer calls correlate with higher subscriptions.
@@ -63,16 +70,17 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 ---
 
 ## **👥 Group Members**
+
 1. **Krishna**  
-   - [LinkedIn](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)  
-   - Email: krishnaintoit@example.com
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krushna-chandra-nayak-b18a55176/)  
+   **Email**: krishnaintoit@gmail.com  
 
 2. **Nisha**  
-   - [LinkedIn](https://www.linkedin.com/in/nisha-rana-185189216/)  
-   - Email: nisharanakv123@gmail.com
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-rana-185189216/)  
+   **Email**: nisharanakv123@gmail.com
 
 3. **Akash**  
-   - [LinkedIn](https://www.linkedin.com/in/ananya-example)  
-   - Email: akashvishwakarmaav84@gmail.com
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-example)  
+   **Email**:   akashvishwakarmaav84@gmail.com
 
 ---
