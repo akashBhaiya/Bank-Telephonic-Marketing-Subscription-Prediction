@@ -14,6 +14,32 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=appveyor&logoColor=white) |
 
+---
+
+## **🔄 Workflow**
+
+![Workflow Diagram](images/workflow.png)  
+*The process begins with dataset preprocessing, followed by model training and evaluation. The results are then visualized using Power BI and deployed through a Streamlit app.*
+
+1. **Data Preprocessing**:  
+   - Clean and transform the data for model training.
+   - detecting and removing Outliers
+   - Address class imbalance using SMOTE.
+
+2. **Model Training**:  
+   - Train machine learning models including Logistic Regression, Random Forest, and optimized Random Forest with hyperparameter tuning.  
+   - Implement cross-validation and hyperparameter optimization using GridSearchCV.
+
+3. **Model Evaluation**:  
+   - Evaluate models using Accuracy, F1 Score, and Confusion Matrix.  
+   - Select the best-performing model.
+
+4. **Visualization**:  
+   - Generate key insights using Power BI.  
+   - Use a Streamlit app for real-time predictions and insights.
+
+5. **Deployment**:  
+   - Submit predictions in CSV format for leaderboard ranking.
 
 ---
 
@@ -81,6 +107,6 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 
 3. **Akash**  
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-example)  
-   **Email**:   akashvishwakarmaav84@gmail.com
+   **Email**: akashvishwakarmaav84@gmail.com
 
----
+--- 
