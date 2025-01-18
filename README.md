@@ -12,8 +12,7 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 ---
 
 ## **🔄 Workflow**
-
-![Workflow Diagram](images/workflow.png)  
+ 
 *The process begins with dataset preprocessing, followed by model training and evaluation. The results are then visualized using Power BI and deployed through a Streamlit app.*
 
 1. **Data Preprocessing**:  
