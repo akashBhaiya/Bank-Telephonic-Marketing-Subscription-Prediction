@@ -1,7 +1,7 @@
 # **📊 Bank Telephonic Marketing: Subscription Prediction**
 
 ![Power BI Dashboard](https://github.com/akashBhaiya/5995/blob/main/Screenshot%202025-01-19%20023941.png)  
-*Above: Power BI Dashboard showcasing key campaign insights.*
+*Above: Power BI Dashboard showcasing front page and theme.*
 
 ---
 
