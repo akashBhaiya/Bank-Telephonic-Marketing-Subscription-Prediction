@@ -1,10 +1,5 @@
 # **📊 Bank Telephonic Marketing: Subscription Prediction**
 
-![Power BI Dashboard](https://github.com/akashBhaiya/5995/blob/main/Screenshot%202025-01-19%20023941.png)  
-*Above: Power BI Dashboard showcasing front page and theme.*
-
----
-
 ## **🔗 Overview**
 Predict customer subscription to term deposits using telephonic marketing data. This project leverages machine learning and data visualization to improve campaign targeting.
 
@@ -40,6 +35,11 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 
 5. **Deployment**:  
    - Submit predictions in CSV format for leaderboard ranking.
+
+---
+
+![Power BI Dashboard](https://github.com/akashBhaiya/5995/blob/main/Screenshot%202025-01-19%20023941.png)  
+*Above: Power BI Dashboard showcasing front page and theme.*
 
 ---
 
