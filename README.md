@@ -1,6 +1,6 @@
 # **📊 Bank Telephonic Marketing: Subscription Prediction**
 
-![Power BI Dashboard]()  
+![Power BI Dashboard](https://github.com/akashBhaiya/5995/blob/main/Screenshot%202025-01-19%20023941.png)  
 *Above: Power BI Dashboard showcasing key campaign insights.*
 
 ---
@@ -44,11 +44,11 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 ---
 
 ## **📈 Key Insights**
-- **Subscription Rates**: ~11% of customers subscribe.
+- **Subscription Rates**: ~3.5% of customers subscribe.
 - **Call Duration**: Longer calls correlate with higher subscriptions.
 - **Age & Job Type**: Critical factors influencing subscriptions.
 
-![Customer Insights](images/customer_insights.png)  
+![Customer Insights](https://github.com/akashBhaiya/5995/blob/main/Screenshot%202025-01-19%20024040.png)  
 *Demographics and behavior trends impacting outcomes.*
 
 ---
@@ -73,9 +73,9 @@ Predict customer subscription to term deposits using telephonic marketing data. 
 ## **📊 Dashboard Insights**
 - **Demographics**: Age and job type are strong predictors.  
 - **Call Duration**: Effective engagement drives subscriptions.  
-- **Contact Month**: Subscriptions peak in May and October.
+- **Contact Month**: Subscriptions peak in May and April.
 
-![Dashboard Insights](images/dashboard_trends.png)
+![Dashboard Insights](https://github.com/akashBhaiya/5995/blob/main/Screenshot%202025-01-19%20024120.png)
 
 ---
 
@@ -107,7 +107,7 @@ Predict customer subscription to term deposits using telephonic marketing data. 
    **Email**: nisharanakv123@gmail.com
 
 3. **Akash**  
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-example)  
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/akash-vishwakarma-396b89210)  
    **Email**: akashvishwakarmaav84@gmail.com
 
 --- 
